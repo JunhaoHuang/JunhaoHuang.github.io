@@ -23,7 +23,7 @@ navbar-links:
   BIOGRAPHY: "aboutme"
   PUBLICATIONS: "publications"
   BLOG: "blog"
-  RESUME: 
+  # RESUME: "resume" TODO
 
 
 ################
