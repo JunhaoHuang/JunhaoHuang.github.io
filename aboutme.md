@@ -4,13 +4,21 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United International College](https://www.uic.edu.cn), under the guidance of [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en). My research interest lies in cryptographic engineering, which mainly includes efficient implementation of Elliptic Curve Cryptography (ECC) and Lattice-based Cryptography (LBC).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+---------
+### Education
 
-What else do you need?
+2021-2025 (expected)
+**PhD, Computer Science**
+BNU-HKBU United International College, Zhuhai, China ([Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en))
 
-### My story
+2018-2021
+ **Master, Computer Science and Technology**
+ Nanjing University of Aeronautics and Astronautics, Nanjing, China ([Prof. Zhe Liu](https://scholar.google.be/citations?hl=en&user=Em0jNiUAAAAJ))
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+2014-2018
+ **Bachelor, Computer Science and Technology**
+ Nanjing University of Aeronautics and Astronautics, Nanjing, China
+
+---------
