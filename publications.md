@@ -7,7 +7,8 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 ### 2022
 
 - **Junhao Huang**, Jipeng Zhang, Haosong Zhao, Zhe Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Improved Plantard arithmetic for lattice-based cryptography. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://ches.iacr.org/), Volume 2022, Issue 4. [[pdf](\assets\paper\TCHES2022.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](\assets\slides\slide_TCHES2022.pdf)]
-  
+
+---
 ### 2021
 
 - Jipeng Zhang, **Junhao Huang**, Zhe Liu*, Sujoy Sinha Roy. Time-memory Trade-offs for Saber+ on Memory-constrained RISC-V Platform. [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12). [[pdf](\assets\paper\TC2021.pdf), [code](https://github.com/Ji-Peng/Saber_RV32)]
@@ -16,6 +17,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   
 - Lirui Zhao, Jipeng Zhang, **Junhao Huang**, Zhe Liu*, Gerhard Hancke. Efficient Implementation of Kyber on Mobile Devices. ICPADS2021. [[pdf](\assets\paper\ICPADS2021.pdf), [slide](\assets\slides\slide_ICPADS2021.pdf)]
 
+---
 ### 2020
 
 - **Junhao Huang**, Zhe Liu*, Zhi Hu, Johann Großschädl. Parallel implementation of SM2 elliptic curve cryptography on Intel processors with AVX2. ACISP2020. [[pdf](\assets\paper\ACISP2020.pdf)]
