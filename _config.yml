@@ -21,7 +21,7 @@ author: Junhao Huang
 
 navbar-links:
   HOME: "aboutme"
-  PUBLICATIONS: "publications"
+  PUBLICATIONS: "\_publications\publications"
   BLOG:
   RESUME: 
 
