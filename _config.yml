@@ -125,11 +125,11 @@ navbar-var-length: false
 # TODO find a suitable color combination
 navbar-col: "#1C3879"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#1C3879"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0e665f"
+hover-col: "#036e65"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
