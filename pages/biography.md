@@ -12,14 +12,14 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 
 <img  align="left"  height="30"  src="/assets/img/education.png">
  &nbsp; 2021-2025 (expected), **PhD, Data Science**  
- &nbsp; &nbsp; BNU-HKBU United International College ([Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en))
+ &nbsp; BNU-HKBU United International College ([Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en))
 
 <img  align="left"  height="30"  src="/assets/img/education.png">
  &nbsp; 2018-2021, **Master, Computer Science and Technology**  
- &nbsp; &nbsp; Nanjing University of Aeronautics and Astronautics ([Prof. Zhe Liu](https://scholar.google.be/citations?hl=en&user=Em0jNiUAAAAJ))
+ &nbsp; Nanjing University of Aeronautics and Astronautics ([Prof. Zhe Liu](https://scholar.google.be/citations?hl=en&user=Em0jNiUAAAAJ))
 
 <img  align="left"  height="30"  src="/assets/img/education.png">
  &nbsp; 2014-2018, **Bachelor, Computer Science and Technology**  
- &nbsp; &nbsp; Nanjing University of Aeronautics and Astronautics
+ &nbsp; Nanjing University of Aeronautics and Astronautics
 
 ---------
