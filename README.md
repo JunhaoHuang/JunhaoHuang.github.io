@@ -35,6 +35,7 @@
 - [FAQ and support](#faq-and-support)
 - [Contributions](#contributions)
 - [Credits](#credits)
+- [Junhao's readme:](#junhaos-readme)
 
 # Features
 
@@ -208,7 +209,7 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 
 - **post** - To write a blog post, add a markdown or HTML file in the `_posts` folder. As long as you give it YAML front matter (the two lines of three dashes), it will automatically be rendered like a blog post. Look at the existing blog post files to see examples of how to use YAML parameters in blog posts.
 - **page** - Any page outside the `_posts` folder that uses YAML front matter will have a very similar style to blog posts.
-- **home** - The home layout is meant to act as the homepage of your blog posts - it will display all your blog posts, sorted from newest to oldest. A file using the `home` layout must be named `index.html` (not `index.md` or anything else!).
+- **postlist** - The postlist layout is meant to act as the homepage of your blog posts - it will display all your blog posts, sorted from newest to oldest. A file using the `home` layout must be named `***.html` (not `***.md` or anything else!).
 - **minimal** - If you want to create a page with minimal styling (ie. without the bulky navigation bar and footer), assign `layout: minimal` to the YAML front matter.
 - If you want to completely bypass the template engine and just write your own HTML page, simply omit the YAML front matter. Only do this if you know how to write HTML!
 
@@ -237,3 +238,10 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
+
+
+# Junhao's readme:
+- **home**: index.md: includes bio, news and selected publications.
+- **Biography**: biography.md: includes bio, education; maybe project/award?
+- **Publications**: publications.md: includes all publications filtered by year. The papers or slides are stored under */assets/paper or /assert/slides*.
+- **Blog**: blog.html: includes a list of all posts in */_posts/* directory, sorted by year. Images from */assets/img*.

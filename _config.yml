@@ -20,9 +20,9 @@ author: Junhao Huang
 ###############################################
 
 navbar-links:
-  BIOGRAPHY: "aboutme"
-  PUBLICATIONS: "publications"
-  BLOG: "blog"
+  BIOGRAPHY: "/pages/biography"
+  PUBLICATIONS: "/pages/publications"
+  BLOG: "/pages/blog"
   # RESUME: "resume" TODO
 
 
