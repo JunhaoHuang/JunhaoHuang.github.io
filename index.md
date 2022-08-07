@@ -18,6 +18,6 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 
 ### Selected Publications
 
-- **Junhao Huang**, Jipeng Zhang, Haosong Zhao, Zhe Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Improved Plantard arithmetic for lattice-based cryptography. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://ches.iacr.org/), Volume 2022, Issue 4. [[pdf](\assets\paper\TCHES2022.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](\assets\slides\slide_TCHES2022.pdf)]
+- **Junhao Huang**, Jipeng Zhang, Haosong Zhao, Zhe Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Improved Plantard arithmetic for lattice-based cryptography. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://ches.iacr.org/), Volume 2022, Issue 4. [[pdf](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](\assets\slides\slide_TCHES2022.pdf)]
 - Jipeng Zhang, **Junhao Huang**, Zhe Liu*, Sujoy Sinha Roy. Time-memory Trade-offs for Saber+ on Memory-constrained RISC-V Platform. [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12). [[pdf](\assets\paper\TC2021.pdf), [code](https://github.com/Ji-Peng/Saber_RV32)]
 - **Junhao Huang**, Zhe Liu*, Zhi Hu, Johann Großschädl. Parallel implementation of SM2 elliptic curve cryptography on Intel processors with AVX2. ACISP2020. [[pdf](\assets\paper\ACISP2020.pdf)]
