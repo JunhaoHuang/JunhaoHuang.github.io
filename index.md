@@ -11,7 +11,7 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 
 ### Recent News
 
-- Our paper "**Improved Plantard Arithmetic for Lattice-based Cryptography**" has been accepted by the [IACR TCHES2022](https://ches.iacr.org/2022/acceptedpapers.php)! Check our [paper](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic) and [slide](/assets\slides\slide_TCHES2022.pdf) for more details. (_Posted on June 28, 2022_)
+- Our paper "**Improved Plantard Arithmetic for Lattice-based Cryptography**" has been accepted by the [IACR TCHES2022](https://ches.iacr.org/2022/acceptedpapers.php)! Check our [paper](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](/assets/slides/slide_TCHES2022.pdf), and [talk](/assets/slides/talk_TCHES2022.mp4) for more details. (_Posted on June 28, 2022_)
 
 
 ---
