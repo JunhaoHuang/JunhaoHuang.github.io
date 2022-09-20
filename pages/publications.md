@@ -6,7 +6,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 ### 2022
 
-- **Junhao Huang**, Jipeng Zhang, Haosong Zhao, Zhe Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Improved Plantard arithmetic for lattice-based cryptography. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://ches.iacr.org/), Volume 2022, Issue 4. [[pdf](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](\assets\slides\slide_TCHES2022.pdf)]
+- **Junhao Huang**, Jipeng Zhang, Haosong Zhao, Zhe Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Improved Plantard Arithmetic for Lattice-based Cryptography. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://ches.iacr.org/), Volume 2022, Issue 4. [[pdf](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](\assets\slides\slide_TCHES2022.pdf)]
 
 ---
 ### 2021
