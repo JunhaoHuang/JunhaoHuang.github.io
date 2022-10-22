@@ -1,12 +1,13 @@
 ---
 layout: post
-title: VMware Virtual Machine cannot connect to the Internet 
-subtitle: VMware virtual machine network issue
+title: VMware Virtual Machine Network Issue
+subtitle: VMware virtual machine cannot connect to the Internet 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [VMware, Ubuntu, Network]
 comments: true
 ---
+
 
 Recently, I accidently shut down my virtual machine: Ubuntu 22.04. After restart the virtual machine, the network icon disappeared and the machine could not connect to the Internet. After spending several painful day searching everything related in the Internet, I finally found two posts related to this issue and it helped to solve my problem. This problem can be solved by combining the ideas from the following two posts: [1](<https://blog.csdn.net/qhy6518338/article/details/104694026>) and [2](<https://askubuntu.com/questions/1371275/where-has-the-network-manager-service-in-21-10-gone>).
 
@@ -30,3 +31,7 @@ reboot
 ```
 
 Just record this in case it still happens in the future!
+
+## References
+[1] <https://blog.csdn.net/qhy6518338/article/details/104694026>
+[2]<https://askubuntu.com/questions/1371275/where-has-the-network-manager-service-in-21-10-gone>
