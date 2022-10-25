@@ -66,7 +66,7 @@ For details of how we can efficiently integrate the improved Plantard arithmetc 
 
 ### Implementation
 
-In order to integrate the Plantard arithmetic into Kyber on Cortex-M4, we need to modify the following operations.
+In order to integrate the Plantard arithmetic into Kyber on Cortex-M4, we need to modify the following files.
 
 > 1. **fastbasemul.S:** pointwise multiplication, involves two types of Plantard multiplications: modular multiplication of two variables or one variable and one constant.
 > 2. **fastntt.S:** forward NTT, only the modular multiplication by a constant.
