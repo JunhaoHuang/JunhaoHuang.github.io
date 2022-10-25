@@ -20,7 +20,7 @@ $m=c_0 q^{-1} \bmod^{\pm} 2^l$
 $t_1=\lfloor mq/2^l\rfloor$  
 $r=c_1-t_1$  
 $\text{return } r$
----
+
 
 ---
 >**Input:** $a,b$ such that $0\leq ab <2^{2l^{\prime}+\gamma}$, where $l^{\prime}$ and $q$ satisfy $2^{l^{\prime}-1}<q<2^{l^{\prime}}$, the precomputed constant $\lambda= \lfloor 2^{2l^{\prime}+\gamma}/q\rfloor$.  
@@ -30,7 +30,7 @@ $c=ab$
 $t=\lfloor c\lambda/2^{2l^{\prime}+\gamma}\rfloor$  
 $r=c_1-t_1$  
 $\text{return } r$
----
+
 
 The state-of-the-art Montgomery and Barrett multiplication both require 3 multiplications, 1 addition/subtraction and some cheap shift or modulo operations. The Barrett multiplication can be modified to support signed integers as shown in [3]. The reason why they are popular in cryptography is that they supports signed integers in a large domain, which can be used to speed up the butterfly units using signed integers in the Lattice-based Cryptography (LBC). 
 
@@ -44,7 +44,7 @@ $r=[([[abq^{\prime}]_{2l}]^l+1)q]$ // $[x]_l\equiv x \bmod 2^l, [x]^l\equiv x>>l
 if $r=q$:  
 $\quad \text{return } 0$  
 $\text{return } r$
----
+
 
 We can see that the origin Plantard multiplication for two variables takes 3 multiplication, 1 addition, 1 modulo by $2^{2l}$ and 1 shift operation. The major difference between Plantard arithmetic and Montgomery or Barrett arithmetic is that the product $ab$ is only used once. So, when $b$ is a constant, then $bq^{\prime}$ can be precomputed mod $2^{2l}$ and we can save one multiplication operation by precomputing $bq^{\prime}$. However, the original Plantard arithmetic only supports unsigned integers. It would require extra addition by a multiple of $q$ during the butterfly units to ensure the the subtraction would not produce negative results. Besides, the original Plantard multiplication only supports inputs in a small domain $[0,q]$, which requires expensive modular reduction after each layer of butterfly unit. Therefore, the original Plantard arithmetic is impractical in LBC. 
 
@@ -56,7 +56,7 @@ We have improved the Plantard arithmetic to support larger input domain in signe
 improved_plant_mul($a,b$):  
 $r=[([[abq^{\prime}]_{2l}]^l+2^{\alpha})q]$ // $[x]_l\equiv x \bmod 2^l, [x]^l\equiv x>>l$.  
 $\text{return } r$
----
+
 
 In this algorithm, we first put a stricter constraint over $q$ such that $q<2^{l-\alpha-1}$. Then, we also modify the correctness proof based on the new modulus restriction and enlarge the input range up to $[-q2^{\alpha},q2^{\alpha}]$. As for the main steps, we only need to modify the $+1$ to $+2^{2^\alpha}$, which will not affect the total complexity. Besides, the output of this algorithm is reduced down to $(-\frac{q}{2},\frac{q}{2})$, which eliminate the final correction step in the original version. With these tweaks over the Plantard arithmetic, we are able to integrate the Plantard arithmetic efficiently into LBC, which may lead to even better LBC implementation compared to the implementation with the state-of-the-art Montgomery or Barrett arithmetic on some platforms.
 
