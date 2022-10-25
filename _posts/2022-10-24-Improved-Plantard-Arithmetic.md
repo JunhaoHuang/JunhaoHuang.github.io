@@ -9,6 +9,7 @@ comments: true
 ---
 
 ## Background
+
 Modular arithmetic is a key fundamental operation in cryptography. The state-of-the-art modular arithmetic is Montgomery[1] and Barrett arithmetic[2]. They both use the relatively cheaper shift operation to replace the expensive division operations in the traditional modular arithmetic, which helps to speed up the modular arithmetic. In this article, we focus on the word-size moduli that are smaller that $2^{l},l=16,32,64$. The state-of-the-art Montgomery and Barrett arithmetic for word-size moduli are shown below.
 
 ---
@@ -57,14 +58,34 @@ improved_plant_mul($a,b$):
 $r=[([[abq^{\prime}]_{2l}]^l+2^{\alpha})q]$ // $[x]_l\equiv x \bmod 2^l, [x]^l\equiv x>>l$.  
 $\text{return } r$
 
-
 In this algorithm, we first put a stricter constraint over $q$ such that $q<2^{l-\alpha-1}$. Then, we also modify the correctness proof based on the new modulus restriction and enlarge the input range up to $[-q2^{\alpha},q2^{\alpha}]$. As for the main steps, we only need to modify the $+1$ to $+2^{2^\alpha}$, which will not affect the total complexity. Besides, the output of this algorithm is reduced down to $(-\frac{q}{2},\frac{q}{2})$, which eliminate the final correction step in the original version. With these tweaks over the Plantard arithmetic, we are able to integrate the Plantard arithmetic efficiently into LBC, which may lead to even better LBC implementation compared to the implementation with the state-of-the-art Montgomery or Barrett arithmetic on some platforms.
 
 ## Integration to Kyber on Cortex-M4
-For details of how we can efficiently integrate the improved Plantard arithmetc into the 16-bit NTT in Kyber on the Cortex-M4 platform, please check our paper [5](/assets/paper/TCHES2022.pdf).
-### Cortex-M4
+
+For details of how we can efficiently integrate the improved Plantard arithmetc into the 16-bit NTT in Kyber on the Cortex-M4 platform, please check our paper [5](/assets/paper/TCHES2022.pdf). In this article, we only record the functions we need to modify in order to integrate the Plantard arithmetic into Kyber.
+
+### Implementation
+
+In order to integrate the Plantard arithmetic into Kyber on Cortex-M4, we need to modify the following operations.
+
+> 1. **fastbasemul.S:** pointwise multiplication, involves two types of Plantard multiplications: modular multiplication of two variables or one variable and one constant.
+> 2. **fastntt.S:** forward NTT, only the modular multiplication by a constant.
+> 3. **fastinvntt.S:** invert NTT, only the modular multiplication by a constant.
+> 4. **ntt.h, ntt.c:** generate the 32-bit twiddle factors for different layer-merging strategy.
+> 5. **poly.h, poly.c:** modify the data type of twiddle factors; poly_frommont->poly_fromplant.
+> 6. **poly_asm.S:** pointwise multiplication from byte stream of _sk_, involves two types of Plantard multiplications: modular multiplication of two variables or one variable and one constant.
+> 7. **matacc\*:** matrix-vector multiplication, involves two types of Plantard multiplications: modular multiplication of two variables or one variable and one constant.
+> 8. **reduce.S:** double plantard reduction.
+> 9. **macros.i:** basic modular arithmetic implementation.
+
+You can check [PR#244](<https://github.com/mupq/pqm4/commit/3743a66571f899d4b9deecfab20de425267fd734#diff-70a479c8e1a1de805ae38f2c54ffa5abdec15cfc72f1aada4cfae4da6dad1cf6>) in [pqm4](https://github.com/mupq/pqm4) for more detailed changes in each file.
+
+## Conclusions
+
+This article provides simple guides on what files we need to check when integrating the Plantard arithmetic into Kyber, which may ease the development process.
 
 ## References
+
 [1] Montgomery P L. Modular multiplication without trial division[J]. Mathematics of computation, 1985, 44(170): 519-521.  
 [2] Barrett P. Implementing the Rivest Shamir and Adleman public key encryption algorithm on a standard digital signal processor[C]//Conference on the Theory and Application of Cryptographic Techniques. Springer, Berlin, Heidelberg, 1986: 311-323.  
 [3] <https://github.com/pq-crystals/kyber/blob/master/ref/reduce.c>  
