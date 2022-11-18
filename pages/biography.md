@@ -5,7 +5,7 @@ title: About Me
 
 ### Biography
 
-My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United International College](https://www.uic.edu.cn), under the guidance of [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en). My research interest lies in cryptographic engineering, focusing on efficient implementation of Elliptic Curve Cryptography (ECC) and Lattice-based Cryptography (LBC).
+My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United International College](https://www.uic.edu.cn), under the guidance of [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en). My research interest lies in cryptographic engineering, focusing on efficient implementation of Elliptic Curve Cryptography (ECC) and Lattice-based Cryptography (LBC). Other previous research positions and education history can be found in my [CV](/assets/JunhaoHuang_CV/jhhuang_cv.pdf).
 
 ---------
 ### Education
