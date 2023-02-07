@@ -80,6 +80,23 @@ In order to integrate the Plantard arithmetic into Kyber on Cortex-M4, we need t
 
 You can check [PR#244](<https://github.com/mupq/pqm4/commit/3743a66571f899d4b9deecfab20de425267fd734#diff-70a479c8e1a1de805ae38f2c54ffa5abdec15cfc72f1aada4cfae4da6dad1cf6>) in [pqm4](https://github.com/mupq/pqm4) for more detailed changes in each file.
 
+
+## Integration to Kyber on Cortex-M3 or RISC-V
+
+In order to integrate the Plantard arithmetic into Kyber on the 32-bit platforms like Cortex-M3 or RISC-V, we need to modify the following files.
+
+> 1. **fastbasemul.S:** pointwise multiplication: basemul_asm_opt_16_32, basemul_asm_acc_opt_32_32, basemul_asm_acc_opt_32_16 use better accumulation strategy.
+> 2. **fastntt.S:** forward NTT, only the modular multiplication by a constant.
+> 3. **fastinvntt.S:** invert NTT, only the modular multiplication by a constant.
+> 4. **ntt.h, ntt.c:** generate the 32-bit twiddle factors for different layer-merging strategy.
+> 5. **poly.h, poly.c:** modify the data type of twiddle factors; poly_frommont->poly_fromplant. poly_basemul_opt_16_32, poly_basemul_acc_opt_32_32, poly_basemul_acc_opt_32_16 use better accumulation strategy. poly_double, poly_half data types for better memory optimizations.
+> 6. **poly_asm.S:** pointwise multiplication from byte stream of _sk_, involves two types of Plantard multiplications: modular multiplication of two variables or one variable and one constant.
+> 7. **matacc\*:** matrix-vector multiplication, involves two types of Plantard multiplications: modular multiplication of two variables or one variable and one constant.
+> 8. **reduce.S:** double plantard reduction.
+> 9. **macros.i:** basic modular arithmetic implementation.
+
+
+
 ## Conclusions
 
 This article provides simple guides on what files we need to check when integrating the Plantard arithmetic into Kyber, which may ease the development process.
