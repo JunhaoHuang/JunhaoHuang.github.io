@@ -11,7 +11,7 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 ### Education
 
 <img  align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
- &nbsp; 2021-2025 (expected), **PhD, Data Science**  
+ &nbsp; 2021-2025 (expected), **PhD candidate, Data Science**  
  &nbsp; BNU-HKBU United International College ([Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en))
 
 <img  align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
