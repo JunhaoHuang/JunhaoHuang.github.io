@@ -25,4 +25,4 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 
 ### Software
 
-- **Improved Plantard Arithmetic for Lattice-based Cryptography** in the Post-quantum crypto library for the ARM Cortex-M4 [pqm4](<https://github.com/mupq/pqm4/pull/244>) (merged at 25th, Oct, 2022).
+- **The stack-version and speed-version Kyber implementation based on the improved Plantard arithmetic** in the Post-quantum crypto library on the ARM Cortex-M4 [pqm4](<https://github.com/mupq/pqm4/pull/244>) (merged at 25th, Oct, 2022).

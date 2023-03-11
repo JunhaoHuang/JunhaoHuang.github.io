@@ -23,7 +23,7 @@ navbar-links:
   BIOGRAPHY: "/pages/biography"
   PUBLICATIONS: "/pages/publications"
   BLOG: "/pages/blog"
-  # RESUME: "resume" TODO
+  TALK: "/pages/talk"
 
 
 ################
@@ -69,7 +69,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-5103-7028
   google-scholar: "citations?hl=zh-CN&user=eMDUxIoAAAAJ"
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
