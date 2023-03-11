@@ -22,8 +22,8 @@ author: Junhao Huang
 navbar-links:
   BIOGRAPHY: "/pages/biography"
   PUBLICATIONS: "/pages/publications"
-  BLOG: "/pages/blog"
   TALK: "/pages/talk"
+  BLOG: "/pages/blog"
 
 
 ################
