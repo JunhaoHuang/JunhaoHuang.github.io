@@ -4,6 +4,11 @@ title: Publications
 ---
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=eMDUxIoAAAAJ).
 
+### 2023
+
+- Jipeng Zhang, **Junhao Huang**, Xuan Yu, Zhe Liu. Research on Efficient Implementation of SM2 for Mobile Devices. [Acta Electronica Sinica](https://www.ejournal.org.cn/CN/0372-2112/home.shtml). 2023.
+
+
 ### 2022
 
 - **Junhao Huang**, Jipeng Zhang, Haosong Zhao, Zhe Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Improved Plantard Arithmetic for Lattice-based Cryptography. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://ches.iacr.org/), Volume 2022, Issue 4. [[pdf](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](/assets/slides/slide_TCHES2022.pdf), [talk](/assets/slides/talk_TCHES2022.mp4)]
