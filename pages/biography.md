@@ -26,6 +26,6 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 
 ### Visiting Programme
 
-<img  align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
+<img align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
  &nbsp; 2023.07.1-2023.12.31, **Visiting research scholar, Electrical Engineering**  
  &nbsp; City University of Hong Kong ([Prof. Ray C.C. Cheung](https://scholar.google.be/citations?user=crJhZNMAAAAJ&hl=en))
