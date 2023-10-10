@@ -28,7 +28,7 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 
 <img  align="left"  height="30"  src="/assets/img/iacrlogo_small.png" style="background-color:white;">
  &nbsp; 2023-2024, **IACR CHES/TCHES 2024 Artifact Evaluation Committee (AEC)**  
-
+ &nbsp; International Association for Cryptologic Research (IACR) ([CHES/TCHES](https://ches.iacr.org/2024/artifacts.php))
 
 
 ### Visiting Programme
