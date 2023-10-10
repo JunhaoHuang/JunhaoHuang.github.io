@@ -29,3 +29,7 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 <img  align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
  &nbsp; 2023.7.1-2023.12.31, **Visiting scholar, Electrical Engineering**  
  &nbsp; City University of Hong Kong ([Prof. Ray C.C. Cheung](https://scholar.google.be/citations?user=crJhZNMAAAAJ&hl=en))
+
+### Scientific Community Service
+
+1. 2023-2024, **IACR CHES/TCHES 2024 Artifact Evaluation Committee (AEC)**  
