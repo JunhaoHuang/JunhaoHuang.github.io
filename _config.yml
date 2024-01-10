@@ -22,7 +22,7 @@ author: Junhao Huang
 navbar-links:
   BIOGRAPHY: "/pages/biography"
   PUBLICATIONS: "/pages/publications"
-  TALK: "/pages/talk"
+  # TALK: "/pages/talk"
   BLOG: "/pages/blog"
 
 
