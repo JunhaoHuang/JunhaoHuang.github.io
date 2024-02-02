@@ -6,6 +6,8 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 ### 2024
 
+- Jipeng Zhang, **Junhao Huang**, Lirui Zhao, Donglong Chen, Çetin Kaya Koç*. ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519. Usenix Security 2024. [[pdf](https://ji-peng.github.io/uploads/usenix_security2024/paper.pdf), [code](https://github.com/Ji-Peng/eng25519_artifact)]
+
 - **Junhao Huang**, Alexandre Adomnicăi, Jipeng Zhang, Wangchen Dai, Yao Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Revisiting Keccak and Dilithium Implementations on ARMv7-M. To be appear at [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive), Volume 2024, Issue 2. [[pdf](/assets/paper/TCHES2024_2.pdf), [code](https://github.com/UIC-ESLAS/Dilithium-Multi-Moduli)]
 
 ### 2023
