@@ -17,7 +17,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 - **Junhao Huang**, Haosong Zhao, Jipeng Zhang, Wangchen Dai, Lu Zhou, Ray CC Cheung, Cetin Kaya Koc, Donglong Chen*. Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices. arXiv preprint ([arXiv:2309.00440](https://arxiv.org/abs/2309.00440)), 2023.
 
-- Jipeng Zhang, **Junhao Huang**, Xuan Yu, Zhe Liu*. Research on Efficient Implementation of SM2 for Mobile Devices. [Acta Electronica Sinica](https://www.ejournal.org.cn/CN/0372-2112/home.shtml). 2023.
+- Jipeng Zhang, **Junhao Huang**, Xuan Yu, Zhe Liu*. Research on Efficient Implementation of SM2 for Mobile Devices. [Acta Electronica Sinica](https://www.ejournal.org.cn/CN/0372-2112/home.shtml). 2023. [[pdf](https://www.ejournal.org.cn/EN/10.12263/DZXB.20221419)]
 
 
 ### 2022
