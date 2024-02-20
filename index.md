@@ -13,7 +13,7 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 - Our paper "**Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices**" has been accepted by [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)! (_Posted on Feburary 4, 2024_)
 - Our paper "**ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519**" has been accepted by the [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/)! (_Posted on Feburary 2, 2024_)
 - Our paper "**Revisiting Keccak and Dilithium Implementations on ARMv7-M**" has been accepted by the IACR TCHES2024! (_Posted on December 16, 2023_)
-- The source code of our paper "**Improved Plantard Arithmetic for Lattice-based Cryptography**" has been merged into the Post-quantum crypto library for the ARM Cortex-M4 [pqm4](<https://github.com/mupq/pqm4/pull/244>). (_Posted on October 25, 2022_)
+<!-- - The source code of our paper "**Improved Plantard Arithmetic for Lattice-based Cryptography**" has been merged into the Post-quantum crypto library for the ARM Cortex-M4 [pqm4](<https://github.com/mupq/pqm4/pull/244>). (_Posted on October 25, 2022_) -->
 - Our paper "**Improved Plantard Arithmetic for Lattice-based Cryptography**" has been accepted by the [IACR TCHES2022](https://ches.iacr.org/2022/acceptedpapers.php)! Check our [paper](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](/assets/slides/slide_TCHES2022.pdf), and [talk](/assets/slides/talk_TCHES2022.mp4) for more details. (_Posted on June 28, 2022_)
 
 ---
