@@ -12,7 +12,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 - **Junhao Huang**, Alexandre Adomnicăi, Jipeng Zhang, Wangchen Dai, Yao Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Revisiting Keccak and Dilithium Implementations on ARMv7-M. To be appear at [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive), Volume 2024, Issue 2. [[pdf](/assets/paper/TCHES2024_2.pdf), [code](https://github.com/UIC-ESLAS/Dilithium-Multi-Moduli)]
 
-- 
+
 ### 2023
 
 - **Junhao Huang**, Haosong Zhao, Jipeng Zhang, Wangchen Dai, Lu Zhou, Ray CC Cheung, Cetin Kaya Koc, Donglong Chen*. Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices. arXiv preprint ([arXiv:2309.00440](https://arxiv.org/abs/2309.00440)), 2023.
