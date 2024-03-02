@@ -6,7 +6,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 ### 2024
 
-- **Junhao Huang**, Haosong Zhao, Jipeng Zhang, Wangchen Dai, Lu Zhou, Ray CC Cheung, Cetin Kaya Koc, Donglong Chen*. Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices. [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), 2024. [[pdf](/assets/paper/TIFS2024.pdf), [code](https://github.com/UIC-ESLAS/Kyber_RV_M3)]
+- **Junhao Huang**, Haosong Zhao, Jipeng Zhang, Wangchen Dai, Lu Zhou, Ray CC Cheung, Cetin Kaya Koc, Donglong Chen*. Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices. [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), 2024. [[pdf](https://ieeexplore.ieee.org/document/10453274/), [code](https://github.com/UIC-ESLAS/Kyber_RV_M3)]
 
 - Jipeng Zhang, **Junhao Huang**, Lirui Zhao, Donglong Chen, Çetin Kaya Koç*. ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519. [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/). [[pdf](https://ji-peng.github.io/uploads/usenix_security2024/paper.pdf), [code](https://github.com/Ji-Peng/eng25519_artifact)]
 
