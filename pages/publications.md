@@ -4,7 +4,14 @@ title: Publications
 ---
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=eMDUxIoAAAAJ).
 
+### 2025
+
+- Jipeng Zhang, Yuxing Yan, **Junhao Huang**, Çetin Kaya Koç*. Optimized Software Implementation of Keccak, Kyber, and Dilithium on RV{32,64}IM{B}{V}. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Volume 2025, Issue 1. [[pdf](https://ji-peng.github.io/uploads/tches2025/paper.pdf), [code](https://github.com/Ji-Peng/PQRV/tree/ches2025)]
+
 ### 2024
+
+- Xuan Yu, Jipeng Zhang, **Junhao Huang**, Donglong Chen, Lu Zhou*. Multi-way High-throughput Implementation of Kyber. [Information Security Conference (ISC)](https://isc24.cs.gmu.edu/accepted-papers/), 2024. [[pdf](/assets/paper/ISC2024.pdf), [code.AVX2](https://github.com/cccccosine/Kyber_AVX2_16w), [code.AVX-512](https://github.com/cccccosine/Kyber_AVX512_32w)]
+
 
 - **Junhao Huang**, Haosong Zhao, Jipeng Zhang, Wangchen Dai, Lu Zhou, Ray CC Cheung, Cetin Kaya Koc, Donglong Chen*. Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices. [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), 2024. [[pdf](https://ieeexplore.ieee.org/document/10453274/), [code](https://github.com/UIC-ESLAS/Kyber_RV_M3)]
 
