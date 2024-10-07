@@ -10,6 +10,8 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 ### 2024
 
+- Xinyi Ji, Jiankuo Dong, **Junhao Huang**, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA. [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12), 2024. [[pdf](https://eprint.iacr.org/2024/1198.pdf)]
+
 - Xuan Yu, Jipeng Zhang, **Junhao Huang**, Donglong Chen, Lu Zhou*. Multi-way High-throughput Implementation of Kyber. [Information Security Conference (ISC)](https://isc24.cs.gmu.edu/accepted-papers/), 2024. [[pdf](/assets/paper/ISC2024.pdf), [code.AVX2](https://github.com/cccccosine/Kyber_AVX2_16w), [code.AVX-512](https://github.com/cccccosine/Kyber_AVX512_32w)]
 
 
