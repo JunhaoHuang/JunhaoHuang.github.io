@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Junhao Huang Homepage
+title: Homepage
 ---
 
 ### Biography
