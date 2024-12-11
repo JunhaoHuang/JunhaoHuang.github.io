@@ -10,6 +10,7 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 ---
 
 ### Recent News
+- Our paper "VESTA: A Secure and Efficient FHE-based Three-Party {V}ectorized {E}valuation {S}ystem for {T}ree {A}ggregation Models" has been accepted by [ACM SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/) (_Posted on November 11, 2024_)
 - Our paper "**Optimized Software Implementation of Keccak, Kyber, and Dilithium on RV{32,64}IM{B}{V}**" has been accepted by [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Check our [paper](https://ji-peng.github.io/uploads/tches2025/paper.pdf), [code](https://github.com/Ji-Peng/PQRV/tree/ches2025) for more details. (_Posted on September 16, 2024_)
 - Our paper "**Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices**" has been accepted by [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)! (_Posted on Feburary 4, 2024_)
 - Our paper "**ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519**" has been accepted by the [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/)! (_Posted on Feburary 2, 2024_)
@@ -20,6 +21,7 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 ---
 
 ### Selected Publications
+- Haosong Zhao, **Junhao Huang**, Zihang Chen, Kunxiong Zhu, Donglong Chen, Zhuoran Ji, Hongyuan Liu*, VESTA: A Secure and Efficient FHE-based Three-Party {V}ectorized {E}valuation {S}ystem for {T}ree {A}ggregation Models. [ACM SIGMETRICS 2025, Fall](https://www.sigmetrics.org/sigmetrics2025/) (To appear).
 - Jipeng Zhang, Yuxing Yan, **Junhao Huang**, Çetin Kaya Koç*. Optimized Software Implementation of Keccak, Kyber, and Dilithium on RV{32,64}IM{B}{V}. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Volume 2025, Issue 1. [[pdf](https://ji-peng.github.io/uploads/tches2025/paper.pdf), [code](https://github.com/Ji-Peng/PQRV/tree/ches2025)]
 - **Junhao Huang**, Haosong Zhao, Jipeng Zhang, Wangchen Dai, Lu Zhou, Ray CC Cheung, Cetin Kaya Koc, Donglong Chen*. Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices. [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), 2024. [[pdf](/assets/paper/TIFS2024.pdf), [code](https://github.com/UIC-ESLAS/Kyber_RV_M3)]
 - Jipeng Zhang, **Junhao Huang**, Lirui Zhao, Donglong Chen, Çetin Kaya Koç*. ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519. [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/). [Distinguished Paper Award](/assets/awards/sec24_distinguished_paper_awar.pdf). [[pdf](https://ji-peng.github.io/uploads/usenix_security2024/paper.pdf), [code](https://github.com/Ji-Peng/eng25519_artifact), [slide](https://ji-peng.github.io/uploads/usenix_security2024/slide.pdf)]
