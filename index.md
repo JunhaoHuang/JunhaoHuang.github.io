@@ -10,7 +10,7 @@ My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United Intern
 ---
 
 ### Recent News
-- Our paper "VESTA: A Secure and Efficient FHE-based Three-Party {V}ectorized {E}valuation {S}ystem for {T}ree {A}ggregation Models" has been accepted by [ACM SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/) (_Posted on November 11, 2024_)
+- Our paper "VESTA: A Secure and Efficient FHE-based Three-Party {V}ectorized {E}valuation {S}ystem for {T}ree {A}ggregation Models" has been accepted by [ACM SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/) (_Posted on December 11, 2024_)
 - Our paper "**Optimized Software Implementation of Keccak, Kyber, and Dilithium on RV{32,64}IM{B}{V}**" has been accepted by [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Check our [paper](https://ji-peng.github.io/uploads/tches2025/paper.pdf), [code](https://github.com/Ji-Peng/PQRV/tree/ches2025) for more details. (_Posted on September 16, 2024_)
 - Our paper "**Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices**" has been accepted by [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)! (_Posted on Feburary 4, 2024_)
 - Our paper "**ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519**" has been accepted by the [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24/)! (_Posted on Feburary 2, 2024_)
