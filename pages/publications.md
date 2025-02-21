@@ -6,7 +6,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 ### 2025
 
-- Haosong Zhao, **Junhao Huang**, Zihang Chen, Kunxiong Zhu, Donglong Chen, Zhuoran Ji, Hongyuan Liu*, VESTA: A Secure and Efficient FHE-based Three-Party {V}ectorized {E}valuation {S}ystem for {T}ree {A}ggregation Models. [ACM SIGMETRICS 2025, Fall](https://www.sigmetrics.org/sigmetrics2025/) (To appear).
+- Haosong Zhao, **Junhao Huang**, Zihang Chen, Kunxiong Zhu, Donglong Chen, Zhuoran Ji, Hongyuan Liu*, VESTA: A Secure and Efficient FHE-based Three-Party {V}ectorized {E}valuation {S}ystem for {T}ree {A}ggregation Models. [ACM SIGMETRICS 2025, Fall](https://www.sigmetrics.org/sigmetrics2025/) [[pdf](/assets/paper/SIGMETRICS_2025_VESTA_Resubmission.pdf)].
 - Jipeng Zhang, Yuxing Yan, **Junhao Huang**, Çetin Kaya Koç*. Optimized Software Implementation of Keccak, Kyber, and Dilithium on RV{32,64}IM{B}{V}. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Volume 2025, Issue 1. [[pdf](https://ji-peng.github.io/uploads/tches2025/paper.pdf), [code](https://github.com/Ji-Peng/PQRV/tree/ches2025)]
 
 ### 2024
