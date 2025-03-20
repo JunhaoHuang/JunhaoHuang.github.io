@@ -5,7 +5,7 @@ title: About Me
 
 ### Biography
 
-My name is Junhao Huang. I passed my PhD defense at Beijing Normal-Hong Kong Baptist University, and will obtain my PhD degree from [Hong Kong Baptist University](https://www.hkbu.edu.hk/). My PhD supervisor is [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en). My research interest is cryptographic engineering, focusing on efficient implementation of Public Key Cryptography (PKC) and Lattice-based Cryptography (LBC). My previous research positions and education history can be found in my [CV](/assets/JunhaoHuang_CV/jhhuang_cv.pdf).
+My name is Junhao Huang. I passed my PhD defense at Beijing Normal-Hong Kong Baptist University, and will obtain the PhD degree from [Hong Kong Baptist University](https://www.hkbu.edu.hk/). My PhD supervisor is [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en). My research interest is cryptographic engineering, focusing on efficient implementation of Public Key Cryptography (PKC) and Lattice-based Cryptography (LBC). My previous research positions and education history can be found in my [CV](/assets/JunhaoHuang_CV/jhhuang_cv.pdf).
 
 ---------
 ### Education
