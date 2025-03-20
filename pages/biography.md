@@ -5,14 +5,14 @@ title: About Me
 
 ### Biography
 
-My name is Junhao Huang. I am currently a PhD student at [BNU-HKBU United International College](https://www.uic.edu.cn), under the guidance of [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en). My research interest is cryptographic engineering, focusing on efficient implementation of Public Key Cryptography (PKC) and Lattice-based Cryptography (LBC). My previous research positions and education history can be found in my [CV](/assets/JunhaoHuang_CV/jhhuang_cv.pdf).
+My name is Junhao Huang. I passed my PhD defense at Beijing Normal-Hong Kong Baptist University, and will obtain my PhD degree from [Hong Kong Baptist University](https://www.hkbu.edu.hk/). My PhD supervisor is [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en). My research interest is cryptographic engineering, focusing on efficient implementation of Public Key Cryptography (PKC) and Lattice-based Cryptography (LBC). My previous research positions and education history can be found in my [CV](/assets/JunhaoHuang_CV/jhhuang_cv.pdf).
 
 ---------
 ### Education
 
 <img  align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
- &nbsp; 2021-2025 (expected), **PhD candidate, Data Science and Technology**  
- &nbsp; BNU-HKBU United International College ([Dr. Donglong Chen](https://staff.uic.edu.cn/donglongchen/en))
+ &nbsp; 2021-2025 (expected), **PhD, Computer Science**  
+ &nbsp; Hong Kong Baptist University ([Dr. Donglong Chen](https://staff.uic.edu.cn/donglongchen/en))
 
 <img  align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
  &nbsp; 2018-2021, **Master, Computer Science and Technology**  
