@@ -5,7 +5,7 @@ title: Homepage
 
 ### Biography
 
-My name is Junhao Huang. I passed my PhD defense at [Beijing Normal-Hong Kong Baptist University](https://www.uic.edu.cn), and will obtain the PhD degree from Hong Kong Baptist University. My PhD supervisor is [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en). My research interest lies in cryptographic engineering, focusing on efficient implementation of Elliptic Curve Cryptography (ECC) and Lattice-based Cryptography (LBC).
+My name is Junhao Huang. I am currently a postdoc fellow at City University of Hong Kong, under the guidance of [Prof. Ray. C.C. Cheung](https://cityuhk-calas.github.io/). I obtained my PhD degree from Hong Kong Baptist University in 2025. My PhD supervisor is [Dr. Donglong Chen](https://scholar.google.be/citations?user=kFDs-OMAAAAJ&hl=en) at Beijing Normal-Hong Kong Baptist University. My research interest lies in cryptographic engineering, focusing on efficient implementation of Elliptic Curve Cryptography (ECC) and Lattice-based Cryptography (LBC).
 
 ---
 
