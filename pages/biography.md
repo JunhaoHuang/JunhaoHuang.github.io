@@ -25,11 +25,27 @@ My name is Junhao Huang. I am currently a postdoc fellow at City University of H
 ---------
 
 ### Scientific Community Service
+<img  align="left"  height="30"  src="/assets/img/iacrlogo_small.png" style="background-color:white;">
+ &nbsp; 2025-2026, **IACR CHES/TCHES 2026 Artifact Evaluation Committee (AEC)**  
+ &nbsp; International Association for Cryptologic Research (IACR) [CHES/TCHES](https://ches.iacr.org/2026/artifacts.php)
+
+<img  align="left"  height="30"  src="/assets/img/iacrlogo_small.png" style="background-color:white;">
+ &nbsp; 2024-2025, **IACR CHES/TCHES 2025 Artifact Evaluation Committee (AEC)**  
+ &nbsp; International Association for Cryptologic Research (IACR) [CHES/TCHES](https://ches.iacr.org/2025/artifacts.php)
+
 
 <img  align="left"  height="30"  src="/assets/img/iacrlogo_small.png" style="background-color:white;">
  &nbsp; 2023-2024, **IACR CHES/TCHES 2024 Artifact Evaluation Committee (AEC)**  
  &nbsp; International Association for Cryptologic Research (IACR) [CHES/TCHES](https://ches.iacr.org/2024/artifacts.php)
 
+ <img  align="left"  height="30"  src="/assets/img/doc.png" style="background-color:white;">
+ &nbsp; **Reviewer** for _ACM Transactions on Architecture and Code Optimization (TACO)_
+
+<img  align="left"  height="30"  src="/assets/img/doc.png" style="background-color:white;">
+ &nbsp; **Reviewer** for _Journal of Cryptographic Engineering (JCEN)_
+
+ <img  align="left"  height="30"  src="/assets/img/doc.png" style="background-color:white;">
+ &nbsp; **Reviewer** for _The Journal of Supercomputing_
 
 ### Visiting Programme
 
