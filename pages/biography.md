@@ -11,11 +11,11 @@ My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management
 ---------
 ### Work
 <img  align="left"  height="30"  src="/assets/img/smu.jpg" style="background-color:white;">
- &nbsp; 2023.7.1-2023.12.31, **Postdoc, School of Computing and Information Systems**  
+ &nbsp; 2026.1-Current, **Postdoc, School of Computing and Information Systems**  
  &nbsp; Singapore Management University ([Assistant Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/))
  
 <img  align="left"  height="30"  src="/assets/img/cityu.jpg" style="background-color:white;">
- &nbsp; 2023.7.1-2023.12.31, **Postdoc, Electrical Engineering**  
+ &nbsp; 2025.10-2025.12, **Postdoc, Electrical Engineering**  
  &nbsp; City University of Hong Kong ([Prof. Ray C.C. Cheung](https://scholar.google.be/citations?user=crJhZNMAAAAJ&hl=en))
 
 
