@@ -32,7 +32,7 @@ My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management
 ### Education
 
 <img  align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
- &nbsp; 2021-2025 (expected), **PhD, Computer Science**  
+ &nbsp; 2021-2025, **PhD, Computer Science and Technology**  
  &nbsp; Hong Kong Baptist University ([Dr. Donglong Chen](https://staff.uic.edu.cn/donglongchen/en))
 
 <img  align="left"  height="30"  src="/assets/img/education.png" style="background-color:white;">
