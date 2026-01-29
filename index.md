@@ -1,3 +1,11 @@
+<!--
+ * @Author: Junhao Huang jhhuang_nuaa@126.com
+ * @Date: 2026-01-29 11:45:22
+ * @LastEditors: Junhao Huang jhhuang_nuaa@126.com
+ * @LastEditTime: 2026-01-29 11:45:53
+ * @FilePath: \JunhaoHuang.github.io\index.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
 layout: page
 title: Homepage
@@ -5,7 +13,7 @@ title: Homepage
 
 ### Biography
 
-My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management University, working with [Assistant Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/). Previous to that, I was a postdoc researcher at City University of Hong Kong, under the guidance of [Prof. Ray. C.C. Cheung](https://cityuhk-calas.github.io/). My research interest lies in cryptographic engineering, focusing on efficient implementation of Post-quantum Cryptography or Lattice-based Cryptography (LBC).
+My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management University, working with [Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/). Previous to that, I was a postdoc researcher at City University of Hong Kong, under the guidance of [Prof. Ray. C.C. Cheung](https://cityuhk-calas.github.io/). My research interest lies in cryptographic engineering, focusing on efficient implementation of Post-quantum Cryptography or Lattice-based Cryptography (LBC).
 
 ---
 
