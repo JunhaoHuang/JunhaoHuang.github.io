@@ -5,14 +5,14 @@ title: About Me
 
 ### Biography
 
-My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management University, working with [Assistant Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/). Previous to that, I was a postdoc researcher at City University of Hong Kong, under the guidance of [Prof. Ray. C.C. Cheung](https://cityuhk-calas.github.io/). My research interest lies in cryptographic engineering, focusing on efficient implementation of Post-quantum Cryptography or Lattice-based Cryptography (LBC).
+My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management University, working with [Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/). Previous to that, I was a postdoc researcher at City University of Hong Kong, under the guidance of [Prof. Ray. C.C. Cheung](https://cityuhk-calas.github.io/). My research interest lies in cryptographic engineering, focusing on efficient implementation of Post-quantum Cryptography or Lattice-based Cryptography (LBC).
 
 
 ---------
 ### Work
 <img  align="left"  height="30"  src="/assets/img/smu.jpg" style="background-color:white;">
  &nbsp; 2026.1-Current, **Postdoc, School of Computing and Information Systems**  
- &nbsp; Singapore Management University ([Assistant Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/))
+ &nbsp; Singapore Management University ([Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/))
  
 <img  align="left"  height="30"  src="/assets/img/cityu.jpg" style="background-color:white;">
  &nbsp; 2025.10-2025.12, **Postdoc, Electrical Engineering**  
