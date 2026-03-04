@@ -1,11 +1,3 @@
-<!--
- * @Author: Junhao Huang jhhuang_nuaa@126.com
- * @Date: 2026-01-29 11:45:22
- * @LastEditors: Junhao Huang jhhuang_nuaa@126.com
- * @LastEditTime: 2026-01-29 11:45:53
- * @FilePath: \JunhaoHuang.github.io\index.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ---
 layout: page
 title: Homepage
