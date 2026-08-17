@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=eMDUxIoAAAAJ).
+### 2026
+- **Junhao Huang**, Yiteng Sun, Jipeng Zhang, Weijia Wang, Donglong Chen, Haiyang Xue, Guomin Yang, Efficient and Compact High-order Masking Raccoon on Memory Constrained Devices. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Volume 2026, Issue 4. [[pdf](/assets/paper/TCHES2026_4_RACC.pdf), [code](https://github.com/JunhaoHuang/pqm4/tree/racc)]
+- Haoyang Chen, **Junhao Huang**, Shutong Jin, Ray C. C. Cheung, Donglong Chen, Wangchen Dai, High-Throughput GPU Design and Implementation of MAYO with Matrix Computation Reordering, [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Volume 2026, Issue 4. [[pdf](/assets/paper/TCHES2026_4_MAYO.pdf), [code](https://github.com/SysuCrypto/cuMAYO)]
 
 ### 2025
 
