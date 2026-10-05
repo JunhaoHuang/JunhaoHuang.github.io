@@ -11,7 +11,7 @@ My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management
 
 ### Recent News
 - Our paper "**DAWN': Improved DAWN and Accelerated Implementation on ARM Cortex-M4**" has been accepted by the IACR TCHES2027! (_Posted on September 17, 2026_)
-- Our paper "**1MMED1ATE: Private Tree Ensemble Inference via One Homomorphic Matrix-Vector Multiplication**" has been accepted by the IACR TCHES2027! (_Posted on September 17, 2026_)
+- Our paper "**1MMED1ATE: Private Tree Ensemble Inference via One Homomorphic Matrix-Vector Multiplication**" has been accepted by the ACM SIGMETRICS 2027! (_Posted on September 17, 2026_)
 - Our paper "**Efficient and Compact High-order Masking Raccoon on Memory Constrained Devices**" has been accepted by the IACR TCHES2026! (_Posted on August 16, 2026_)
 - Our paper "**High-Throughput GPU Design and Implementation of MAYO with Matrix Computation Reordering**" has been accepted by the IACR TCHES2026! (_Posted on August 16, 2026_)
 - Our paper "**Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices**" has been accepted by [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)! (_Posted on Feburary 4, 2024_)
