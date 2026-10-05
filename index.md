@@ -10,8 +10,10 @@ My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management
 ---
 
 ### Recent News
-- Our paper "**Efficient and Compact High-order Masking Raccoon on Memory Constrained Devices**" has been accepted by the IACR TCHES2026! (_Posted on October 16, 2026_)
-- Our paper "**High-Throughput GPU Design and Implementation of MAYO with Matrix Computation Reordering**" has been accepted by the IACR TCHES2026! (_Posted on October 16, 2026_)
+- Our paper "**DAWN': Improved DAWN and Accelerated Implementation on ARM Cortex-M4**" has been accepted by the IACR TCHES2027! (_Posted on September 17, 2026_)
+- Our paper "**1MMED1ATE: Private Tree Ensemble Inference via One Homomorphic Matrix-Vector Multiplication**" has been accepted by the IACR TCHES2027! (_Posted on September 17, 2026_)
+- Our paper "**Efficient and Compact High-order Masking Raccoon on Memory Constrained Devices**" has been accepted by the IACR TCHES2026! (_Posted on August 16, 2026_)
+- Our paper "**High-Throughput GPU Design and Implementation of MAYO with Matrix Computation Reordering**" has been accepted by the IACR TCHES2026! (_Posted on August 16, 2026_)
 - Our paper "**Yet another Improvement of Plantard Arithmetic for Faster Kyber on Low-end 32-bit IoT Devices**" has been accepted by [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)! (_Posted on Feburary 4, 2024_)
 - Our paper "**Revisiting Keccak and Dilithium Implementations on ARMv7-M**" has been accepted by the IACR TCHES2024! (_Posted on December 16, 2023_)
 - Our paper "**Improved Plantard Arithmetic for Lattice-based Cryptography**" has been accepted by the [IACR TCHES2022](https://ches.iacr.org/2022/acceptedpapers.php)! Check our [paper](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](/assets/slides/slide_TCHES2022.pdf), and [talk](/assets/slides/talk_TCHES2022.mp4) for more details. (_Posted on June 28, 2022_)
@@ -19,7 +21,7 @@ My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management
 ---
 
 ### Selected Publications
-
+- **Junhao Huang**, Yijian Liu, Yu Zhang, Xianhui Lu, Donglong Chen, Haiyang Xue*, DAWN': Improved DAWN and Accelerated Implementation on ARM Cortex-M4. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Volume 2027, Issue 1. [To be available]
 - **Junhao Huang**, Yiteng Sun, Jipeng Zhang, Weijia Wang, Donglong Chen, Haiyang Xue, Guomin Yang, . [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Volume 2026, Issue 4. [[pdf](/assets/paper/TCHES2026_4_RACC.pdf), [code](https://github.com/JunhaoHuang/pqm4/tree/racc)]
 - Haoyang Chen, **Junhao Huang**, Shutong Jin, Ray C. C. Cheung, Donglong Chen, Wangchen Dai, High-Throughput GPU Design and Implementation of MAYO with Matrix Computation Reordering, [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://tches.iacr.org/index.php/TCHES/issue/archive). Volume 2026, Issue 4. [[pdf](/assets/paper/TCHES2026_4_MAYO.pdf), [code](https://github.com/SysuCrypto/cuMAYO)]
 - Haosong Zhao, **Junhao Huang**, Zihang Chen, Kunxiong Zhu, Donglong Chen, Zhuoran Ji, Hongyuan Liu*, VESTA: A Secure and Efficient FHE-based Three-Party {V}ectorized {E}valuation {S}ystem for {T}ree {A}ggregation Models. [ACM SIGMETRICS 2025, Fall](https://www.sigmetrics.org/sigmetrics2025/) [[pdf](/assets/paper/SIGMETRICS_2025_VESTA_Resubmission.pdf)].
