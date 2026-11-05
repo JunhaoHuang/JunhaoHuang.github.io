@@ -7,8 +7,18 @@ title: Homepage
 
 My name is Junhao Huang. I am currently a postdoc fellow at Singapore Management University, working with [Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/). Previous to that, I was a postdoc researcher at City University of Hong Kong, under the guidance of [Prof. Ray. C.C. Cheung](https://cityuhk-calas.github.io/). My research interest lies in cryptographic engineering, focusing on efficient implementation of Post-quantum Cryptography or Lattice-based Cryptography (LBC).
 
----
+--- 
 
+### Scientific Services 
+I have served as a program committee or reviewer for the following venues:
+- IACR CHES 2027;
+- CCF International Conference on Service Science;
+- ACM Transactions on Architecture and Code Optimization;
+- Journal of Cryptographic Engineering;
+- The Journal of Supercomputing;
+- Artifact Evaluation Committee for IACR CHES 2024$\sim$2026;
+
+---
 ### Recent News
 - Our paper "**DAWN': Improved DAWN and Accelerated Implementation on ARM Cortex-M4**" has been accepted by the IACR TCHES2027! (_Posted on September 17, 2026_)
 - Our paper "**1MMED1ATE: Private Tree Ensemble Inference via One Homomorphic Matrix-Vector Multiplication**" has been accepted by the ACM SIGMETRICS 2027! (_Posted on September 17, 2026_)
