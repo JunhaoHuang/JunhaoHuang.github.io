@@ -16,7 +16,7 @@ I have served as a program committee or reviewer for the following venues:
 - ACM Transactions on Architecture and Code Optimization;
 - Journal of Cryptographic Engineering;
 - The Journal of Supercomputing;
-- Artifact Evaluation Committee for IACR CHES 2024$\sim$2026;
+- Artifact Evaluation Committee for IACR CHES 2024-2026;
 
 ---
 ### Recent News
