@@ -42,6 +42,9 @@ I have served as a program committee or reviewer for the following venues:
 - **Junhao Huang**, Jipeng Zhang, Haosong Zhao, Zhe Liu, Ray C. C. Cheung, Çetin Kaya Koç, Donglong Chen*. Improved Plantard Arithmetic for Lattice-based Cryptography. [IACR Transactions on Cryptographic Hardware and Embedded Systems](https://ches.iacr.org/), Volume 2022, Issue 4. [[pdf](https://eprint.iacr.org/2022/956.pdf), [code](https://github.com/UIC-ESLAS/ImprovedPlantardArithmetic), [slide](/assets/slides/slide_TCHES2022.pdf), and [talk](/assets/slides/talk_TCHES2022.mp4)]
 
 
-<!-- ### Software
-
-- **The stack-version and speed-version Kyber implementation based on the improved Plantard arithmetic** in the Post-quantum crypto library on the ARM Cortex-M4 [pqm4](<https://github.com/mupq/pqm4/pull/244>) (merged at 25th, Oct, 2022). -->
+### ICCS NGCC Proposals
+I have participated in the efficient implementations of the following NGCC proposals:
+- ZEN: Zero Divisor Encoding on NTRU Encryption, Xianhui Lu, Yijian Liu, Dongshu Cai, Dingding Jia, Lei Bi, Jingnan He, Yu Zhang, Zhe Liu, **Junhao Huang**, Lu Zhou, Liming Fang, Tianhao Liu, Sihan He, Meng Xu, Lutan Zhao, Xueqian Bao, _Institute of Commercial Cryptography Standards_, 2026.
+- DKEM (Ding Key Encapsulation), Rui Liu, Chen Kong, Wenbin Zhang, Neng Zeng, Han Xia, Manoj Gyawali, Samuel José García, Alba Hernández Costoya, Haiyang Xue, **Junhao Huang**, Boru Gong, Yi Jin, _Institute of Commercial Cryptography Standards_, 2026.
+- DKEX (Ding Key Exchange), Rui Liu, Chen Kong, Wenbin Zhang, Neng Zeng, Han Xia, Manoj Gyawali, Samuel José García, Alba Hernández Costoya, Haiyang Xue, **Junhao Huang**, Boru Gong, Yi Jin, _Institute of Commercial Cryptography Standards_, 2026.
+- ADKEX (Authenticated Ding Key Exchange), Rui Liu, Chen Kong, Wenbin Zhang, Neng Zeng, Han Xia, Manoj Gyawali, Samuel José García, Alba Hernández Costoya, Haiyang Xue, **Junhao Huang**, Boru Gong, Yi Jin, _Institute of Commercial Cryptography Standards_, 2026.
